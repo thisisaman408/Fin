@@ -1,0 +1,1019 @@
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0044
+MAD Risk Measure: 0.0125
+
+Optimal Portfolio Weights:
+                                    Weight
+Oil & Natural Gas Corpn. Ltd..1   0.314660
+N T P C Ltd..1                    0.223365
+Bharat Heavy Electricals Ltd..1   0.171421
+Cipla Ltd..1                      0.102642
+Coal India Ltd..1                 0.092432
+Tata Consultancy Services Ltd..1  0.052515
+Dr. Reddy'S Laboratories Ltd..1   0.022251
+Sun Pharmaceutical Inds. Ltd..1   0.020716
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\42287504b8b845babc2fe7a63f97372b-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\42287504b8b845babc2fe7a63f97372b-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 84.882142 (32)
+62  Obj 0.012082268 Primal inf 2.651641 (12)
+84  Obj 0.012556969
+Optimal - objective value 0.012517536
+After Postsolve, objective 0.012517536, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01251753589 - 84 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0042
+MAD Risk Measure: 0.0125
+
+Optimal Portfolio Weights:
+                                    Weight
+Oil & Natural Gas Corpn. Ltd..1   0.309905
+N T P C Ltd..1                    0.203794
+Bharat Heavy Electricals Ltd..1   0.167148
+Cipla Ltd..1                      0.110589
+Coal India Ltd..1                 0.095146
+Tata Consultancy Services Ltd..1  0.047159
+Sun Pharmaceutical Inds. Ltd..1   0.036835
+Dr. Reddy'S Laboratories Ltd..1   0.026529
+Bharti Airtel Ltd..1              0.002777
+Hero Motocorp Ltd..1              0.000120
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\b636fc94b1d64bf19e4576f596708cd9-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\b636fc94b1d64bf19e4576f596708cd9-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 84.958133 (32)
+62  Obj 0.012082268 Primal inf 2.7276319 (12)
+76  Obj 0.012686695
+Optimal - objective value 0.012647108
+After Postsolve, objective 0.012647108, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.0126471076 - 76 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0037
+MAD Risk Measure: 0.0126
+
+Optimal Portfolio Weights:
+                                    Weight
+Oil & Natural Gas Corpn. Ltd..1   0.272772
+Cipla Ltd..1                      0.159984
+N T P C Ltd..1                    0.155544
+Bharat Heavy Electricals Ltd..1   0.153775
+Coal India Ltd..1                 0.117342
+Dr. Reddy'S Laboratories Ltd..1   0.047604
+Sun Pharmaceutical Inds. Ltd..1   0.038390
+Bharti Airtel Ltd..1              0.020293
+Tata Consultancy Services Ltd..1  0.017792
+Hero Motocorp Ltd..1              0.016504
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\0399e0dadc4a4f65964134ce3da8788a-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\0399e0dadc4a4f65964134ce3da8788a-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 85.034124 (32)
+62  Obj 0.012082268 Primal inf 2.8036228 (12)
+81  Obj 0.012819775
+Optimal - objective value 0.012779929
+After Postsolve, objective 0.012779929, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.0127799295 - 81 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0032
+MAD Risk Measure: 0.0128
+
+Optimal Portfolio Weights:
+                                   Weight
+Oil & Natural Gas Corpn. Ltd..1  0.245158
+Cipla Ltd..1                     0.199829
+Coal India Ltd..1                0.136121
+Bharat Heavy Electricals Ltd..1  0.125240
+N T P C Ltd..1                   0.121207
+Dr. Reddy'S Laboratories Ltd..1  0.061928
+Sun Pharmaceutical Inds. Ltd..1  0.034910
+Bharti Airtel Ltd..1             0.030385
+Hindustan Unilever Ltd..1        0.022802
+Hero Motocorp Ltd..1             0.022420
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\6df2f52b5912469588d7c2acc10891e1-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\6df2f52b5912469588d7c2acc10891e1-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 85.110115 (32)
+62  Obj 0.012201591 Primal inf 9.3084282 (17)
+79  Obj 0.012981474
+Optimal - objective value 0.012941156
+After Postsolve, objective 0.012941156, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.012941156 - 79 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0027
+MAD Risk Measure: 0.0129
+
+Optimal Portfolio Weights:
+                                   Weight
+Oil & Natural Gas Corpn. Ltd..1  0.223888
+Cipla Ltd..1                     0.208755
+Coal India Ltd..1                0.156152
+Bharat Heavy Electricals Ltd..1  0.110219
+N T P C Ltd..1                   0.105079
+Bharti Airtel Ltd..1             0.065294
+Dr. Reddy'S Laboratories Ltd..1  0.063071
+Hero Motocorp Ltd..1             0.033433
+Sun Pharmaceutical Inds. Ltd..1  0.022774
+Hindustan Unilever Ltd..1        0.011336
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\fc511b3839054c568852f8e587550348-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\fc511b3839054c568852f8e587550348-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 85.186106 (32)
+62  Obj 0.01204061 Primal inf 4.1119861 (23)
+79  Obj 0.013143187
+Optimal - objective value 0.013102395
+After Postsolve, objective 0.013102395, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01310239451 - 79 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.05   (Wallclock seconds):       0.05
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0022
+MAD Risk Measure: 0.0131
+
+Optimal Portfolio Weights:
+                                   Weight
+Cipla Ltd..1                     0.217608
+Oil & Natural Gas Corpn. Ltd..1  0.202623
+Coal India Ltd..1                0.176183
+Bharti Airtel Ltd..1             0.100066
+Bharat Heavy Electricals Ltd..1  0.095088
+N T P C Ltd..1                   0.089154
+Dr. Reddy'S Laboratories Ltd..1  0.064193
+Hero Motocorp Ltd..1             0.044425
+Sun Pharmaceutical Inds. Ltd..1  0.010660
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\eef0b44912bc43c7a39248d48336407d-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\eef0b44912bc43c7a39248d48336407d-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 85.262097 (32)
+62  Obj 0.012000157 Primal inf 2.6026426 (11)
+82  Obj 0.013306201
+Optimal - objective value 0.013264675
+After Postsolve, objective 0.013264675, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01326467451 - 82 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.05   (Wallclock seconds):       0.05
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0017
+MAD Risk Measure: 0.0133
+
+Optimal Portfolio Weights:
+                                   Weight
+Cipla Ltd..1                     0.220154
+Coal India Ltd..1                0.196266
+Oil & Natural Gas Corpn. Ltd..1  0.181860
+Bharti Airtel Ltd..1             0.122962
+N T P C Ltd..1                   0.090824
+Bharat Heavy Electricals Ltd..1  0.070344
+Dr. Reddy'S Laboratories Ltd..1  0.063486
+Hero Motocorp Ltd..1             0.053556
+Sun Pharmaceutical Inds. Ltd..1  0.000548
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\fafadbe5643e4e6fb05588b0f1532a18-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\fafadbe5643e4e6fb05588b0f1532a18-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 85.338088 (32)
+62  Obj 0.012595614 Primal inf 9.393866 (24)
+78  Obj 0.01347549
+Optimal - objective value 0.013432005
+After Postsolve, objective 0.013432005, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01343200487 - 78 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0012
+MAD Risk Measure: 0.0134
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.216566
+Cipla Ltd..1                     0.192835
+N T P C Ltd..1                   0.175811
+Oil & Natural Gas Corpn. Ltd..1  0.163503
+Bharti Airtel Ltd..1             0.089516
+Dr. Reddy'S Laboratories Ltd..1  0.054121
+Hindustan Unilever Ltd..1        0.053828
+Hero Motocorp Ltd..1             0.053821
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\250d8d7d38844584ad08d8993a9ff186-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\250d8d7d38844584ad08d8993a9ff186-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 85.414079 (32)
+62  Obj 0.012658798 Primal inf 15.871338 (22)
+80  Obj 0.013675474
+Optimal - objective value 0.013631871
+After Postsolve, objective 0.013631871, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01363187139 - 80 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0007
+MAD Risk Measure: 0.0136
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.237472
+Cipla Ltd..1                     0.208095
+Oil & Natural Gas Corpn. Ltd..1  0.146326
+Bharti Airtel Ltd..1             0.121577
+N T P C Ltd..1                   0.120049
+Dr. Reddy'S Laboratories Ltd..1  0.062722
+Hero Motocorp Ltd..1             0.061278
+Hindustan Unilever Ltd..1        0.042482
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\ab8e5af503a44b60a27d7e870c20b94d-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\ab8e5af503a44b60a27d7e870c20b94d-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.41697056 (1)
+31  Obj 0.0055596821 Primal inf 85.49007 (32)
+62  Obj 0.012687456 Primal inf 15.077601 (25)
+77  Obj 0.013947025
+Optimal - objective value 0.013900971
+After Postsolve, objective 0.013900971, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01390097106 - 77 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.05   (Wallclock seconds):       0.05
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: -0.0002
+MAD Risk Measure: 0.0139
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.285976
+Cipla Ltd..1                     0.159221
+N T P C Ltd..1                   0.147047
+Oil & Natural Gas Corpn. Ltd..1  0.122080
+Hero Motocorp Ltd..1             0.079301
+Dr. Reddy'S Laboratories Ltd..1  0.074084
+Bharti Airtel Ltd..1             0.070591
+Hindustan Unilever Ltd..1        0.061698
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\941ee086007349b6a227cc3b49744b7c-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\941ee086007349b6a227cc3b49744b7c-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.45720166 (2)
+31  Obj 0.0057929155 Primal inf 13.127785 (29)
+62  Obj 0.013975084 Primal inf 0.39954498 (4)
+71  Obj 0.01424379
+Optimal - objective value 0.014198221
+After Postsolve, objective 0.014198221, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01419822081 - 71 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.02   (Wallclock seconds):       0.02
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0003
+MAD Risk Measure: 0.0142
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.324274
+N T P C Ltd..1                   0.144251
+Oil & Natural Gas Corpn. Ltd..1  0.123571
+Cipla Ltd..1                     0.120181
+Hindustan Unilever Ltd..1        0.114228
+Hero Motocorp Ltd..1             0.065225
+Dr. Reddy'S Laboratories Ltd..1  0.064873
+Bharti Airtel Ltd..1             0.043396
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\ad39af9bd34f4014a56120bb8c7a349b-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\ad39af9bd34f4014a56120bb8c7a349b-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.53319254 (2)
+31  Obj 0.0067925374 Primal inf 40.87498 (37)
+62  Obj 0.014348097 Primal inf 2.9888936 (14)
+70  Obj 0.014571776
+Optimal - objective value 0.014524452
+After Postsolve, objective 0.014524452, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01452445159 - 70 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0008
+MAD Risk Measure: 0.0145
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.363104
+Hindustan Unilever Ltd..1        0.181534
+N T P C Ltd..1                   0.118317
+Oil & Natural Gas Corpn. Ltd..1  0.118312
+Dr. Reddy'S Laboratories Ltd..1  0.084696
+Cipla Ltd..1                     0.078031
+Hero Motocorp Ltd..1             0.044828
+Bharat Heavy Electricals Ltd..1  0.007512
+Bharti Airtel Ltd..1             0.003665
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\b694e35323ed487ca08855bf3e28d689-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\b694e35323ed487ca08855bf3e28d689-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.60918343 (2)
+31  Obj 0.0085677324 Primal inf 14.45826 (30)
+62  Obj 0.014957513 Primal inf 0.0011752639 (1)
+63  Obj 0.014957601
+Optimal - objective value 0.014910279
+After Postsolve, objective 0.014910279, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01491027897 - 63 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0013
+MAD Risk Measure: 0.0149
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.393606
+Hindustan Unilever Ltd..1        0.220415
+Oil & Natural Gas Corpn. Ltd..1  0.117333
+Dr. Reddy'S Laboratories Ltd..1  0.085345
+N T P C Ltd..1                   0.078836
+Cipla Ltd..1                     0.060610
+Hero Motocorp Ltd..1             0.030244
+Bharat Heavy Electricals Ltd..1  0.012359
+Sun Pharmaceutical Inds. Ltd..1  0.001253
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\2cb3a81cdcc44b98ad067da9260535f8-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\2cb3a81cdcc44b98ad067da9260535f8-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.68517431 (2)
+31  Obj 0.0053069968 Primal inf 13.844322 (25)
+62  Obj 0.01501412 Primal inf 4.1952288 (12)
+72  Obj 0.015368146
+Optimal - objective value 0.015319788
+After Postsolve, objective 0.015319788, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01531978824 - 72 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0018
+MAD Risk Measure: 0.0153
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.408132
+Hindustan Unilever Ltd..1        0.236224
+Oil & Natural Gas Corpn. Ltd..1  0.109142
+Dr. Reddy'S Laboratories Ltd..1  0.076536
+Cipla Ltd..1                     0.071871
+Sun Pharmaceutical Inds. Ltd..1  0.038302
+Hero Motocorp Ltd..1             0.031582
+N T P C Ltd..1                   0.028213
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\db17672e6bb54afab5c59c5df838b8eb-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\db17672e6bb54afab5c59c5df838b8eb-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.7611652 (2)
+31  Obj 0.0033246101 Primal inf 29.372285 (26)
+62  Obj 0.010716927 Primal inf 18.057388 (27)
+87  Obj 0.015804467
+Optimal - objective value 0.015754978
+After Postsolve, objective 0.015754978, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01575497761 - 87 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0023
+MAD Risk Measure: 0.0158
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.408823
+Hindustan Unilever Ltd..1        0.256423
+Oil & Natural Gas Corpn. Ltd..1  0.095267
+Dr. Reddy'S Laboratories Ltd..1  0.058298
+Sun Pharmaceutical Inds. Ltd..1  0.054539
+H D F C Bank Ltd..1              0.052072
+Cipla Ltd..1                     0.049999
+Hero Motocorp Ltd..1             0.024578
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\adac6396904a470a9d270deb62510d01-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\adac6396904a470a9d270deb62510d01-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.83715608 (2)
+31  Obj 0.0085240866 Primal inf 22.555319 (28)
+57  Obj 0.016256114
+Optimal - objective value 0.016207041
+After Postsolve, objective 0.016207041, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01620704143 - 57 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0028
+MAD Risk Measure: 0.0162
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.398852
+Hindustan Unilever Ltd..1        0.275110
+H D F C Bank Ltd..1              0.132018
+Oil & Natural Gas Corpn. Ltd..1  0.063238
+Sun Pharmaceutical Inds. Ltd..1  0.052062
+Dr. Reddy'S Laboratories Ltd..1  0.050076
+Hero Motocorp Ltd..1             0.020022
+Cipla Ltd..1                     0.008622
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\581047a53d88401cb98ad41087d2aec4-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\581047a53d88401cb98ad41087d2aec4-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.91314697 (2)
+31  Obj 0.011064992 Primal inf 12.571038 (22)
+53  Obj 0.016720558
+Optimal - objective value 0.016671955
+After Postsolve, objective 0.016671955, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01667195519 - 53 iterations time 0.012, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0033
+MAD Risk Measure: 0.0167
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.391028
+Hindustan Unilever Ltd..1        0.305835
+H D F C Bank Ltd..1              0.103225
+Sun Pharmaceutical Inds. Ltd..1  0.086212
+Dr. Reddy'S Laboratories Ltd..1  0.059740
+Hero Motocorp Ltd..1             0.035723
+Bharti Airtel Ltd..1             0.018237
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\bb39d64c5fc44e72a6d65b42987f409b-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\bb39d64c5fc44e72a6d65b42987f409b-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 0.98913785 (2)
+31  Obj 0.012759624 Primal inf 14.432469 (22)
+53  Obj 0.017203659
+Optimal - objective value 0.017154116
+After Postsolve, objective 0.017154116, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.017154116 - 53 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0038
+MAD Risk Measure: 0.0172
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.413773
+Hindustan Unilever Ltd..1        0.333042
+Bharti Airtel Ltd..1             0.105704
+H D F C Bank Ltd..1              0.067532
+Sun Pharmaceutical Inds. Ltd..1  0.040239
+Dr. Reddy'S Laboratories Ltd..1  0.024351
+Hero Motocorp Ltd..1             0.015359
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\3ec0c6a0393e4514aed557a4ccee8089-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\3ec0c6a0393e4514aed557a4ccee8089-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 1.0651287 (2)
+31  Obj 0.014454257 Primal inf 16.2939 (22)
+50  Obj 0.017745581
+Optimal - objective value 0.01769431
+After Postsolve, objective 0.01769431, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01769430987 - 50 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0043
+MAD Risk Measure: 0.0177
+
+Optimal Portfolio Weights:
+                                   Weight
+Coal India Ltd..1                0.442649
+Hindustan Unilever Ltd..1        0.358176
+Bharti Airtel Ltd..1             0.154326
+I T C Ltd..1                     0.025899
+Hero Motocorp Ltd..1             0.010888
+Sun Pharmaceutical Inds. Ltd..1  0.007536
+Dr. Reddy'S Laboratories Ltd..1  0.000525
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\d7557547de114d619098fcc89efb9205-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\d7557547de114d619098fcc89efb9205-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 1.1411196 (2)
+31  Obj 0.016261199 Primal inf 12.867894 (25)
+46  Obj 0.018803642
+Optimal - objective value 0.018744018
+After Postsolve, objective 0.018744018, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.01874401835 - 46 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0048
+MAD Risk Measure: 0.0187
+
+Optimal Portfolio Weights:
+                             Weight
+Coal India Ltd..1          0.558489
+Hindustan Unilever Ltd..1  0.238925
+Hero Motocorp Ltd..1       0.090828
+I T C Ltd..1               0.076044
+Bharti Airtel Ltd..1       0.035714
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\8382d53f997c4127a4be1debc5a2fee1-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\8382d53f997c4127a4be1debc5a2fee1-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 1.2171105 (2)
+31  Obj 0.017967617 Primal inf 14.274184 (26)
+45  Obj 0.021063252
+Optimal - objective value 0.020992731
+After Postsolve, objective 0.020992731, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.0209927312 - 45 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0053
+MAD Risk Measure: 0.0210
+
+Optimal Portfolio Weights:
+                             Weight
+Coal India Ltd..1          0.674558
+Hero Motocorp Ltd..1       0.190710
+Hindustan Unilever Ltd..1  0.084228
+I T C Ltd..1               0.050504
+Number of assets: 30
+Number of periods: 36
+Mean returns range: -0.013735283357974784 to 0.006082008328422838
+Welcome to the CBC MILP Solver 
+Version: 2.10.3
+Build Date: Dec 15 2019
+
+command line - C:\Users\Aniket\OneDrive\Documents\FinaceAssingment\venv\Lib\site-packages\pulp\solverdir\cbc\win\64\cbc.exe C:\Users\Aniket\AppData\Local\Temp\c812dd0e71294499abf64b1577e0ef06-pulp.mps -timeMode elapsed -branch -printingOptions all -solution C:\Users\Aniket\AppData\Local\Temp\c812dd0e71294499abf64b1577e0ef06-pulp.sol (default strategy 1) 
+At line 2 NAME          MODEL
+At line 3 ROWS
+At line 79 COLUMNS
+At line 2408 RHS
+At line 2483 BOUNDS
+At line 2514 ENDATA
+Problem MODEL has 74 rows, 66 columns and 2292 elements
+Coin0008I MODEL read with 0 errors
+Option for timeMode changed from cpu to elapsed
+Presolve 73 (-1) rows, 66 (0) columns and 2261 (-31) elements
+Perturbing problem by 0.001% of 0.064269246 - largest nonzero change 4.9440765e-05 ( 0.6474685%) - largest zero change 4.7816357e-05
+0  Obj 0 Primal inf 1.2931014 (2)
+31  Obj 0.015434689 Primal inf 12.154324 (22)
+62  Obj 0.024710465 Primal inf 0.4204071 (4)
+64  Obj 0.024964266
+Optimal - objective value 0.024881824
+After Postsolve, objective 0.024881824, infeasibilities - dual 0 (0), primal 0 (0)
+Optimal objective 0.02488182438 - 64 iterations time 0.002, Presolve 0.00
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.03
+
+
+Portfolio Optimization Results:
+--------------------------------------------------
+Optimization Status: Optimal
+
+Portfolio Metrics:
+Expected Return: 0.0058
+MAD Risk Measure: 0.0249
+
+Optimal Portfolio Weights:
+                        Weight
+Coal India Ltd..1     0.849171
+Hero Motocorp Ltd..1  0.150829
